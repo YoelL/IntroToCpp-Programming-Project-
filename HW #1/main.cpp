@@ -11,6 +11,7 @@
 // Logic of this Ex as folows
 // The Main calls to an Instance of Calculator which lunches the Menu, an instance of DB is created, 
 // and it initiate the DataBase, all of the arithmatic function are located in the DB.h.
+//
 
 
 
