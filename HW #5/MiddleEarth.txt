@@ -1,0 +1,15 @@
+TheHill	Erabor	33
+Erabor	TheHill	33
+Bag-End	Rivendell 30
+Bag-End Moria 40
+Bag-End LonelyMountain 54
+Under-Hill Moria 75
+Moria Under-Hill 75
+MountGram  LastDesert 654
+GreenFields Erabor 54
+LastDesert MountGram 32
+LonelyMountain WitheredHeath 87
+Mirkwood GoblinGate 44
+GoblinGate Mirkwood 44
+WitheredHeath Erabor 87
+
